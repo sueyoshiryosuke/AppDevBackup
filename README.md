@@ -1,6 +1,9 @@
 # AppDevBackup
 軽量・高速・手軽なスナップショット型バックアップツール
 
+Windows用実行ファイルはリリースページに置いています。  
+https://github.com/sueyoshiryosuke/AppDevBackup/releases
+
 ## 概要
 AppDevBackup は、**フォルダを丸ごと日時付きでバックアップするだけ**の  
 超シンプルなバックアップツールです。  
